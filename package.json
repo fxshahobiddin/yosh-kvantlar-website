@@ -1,0 +1,18 @@
+{
+  "name": "yosh-kvantlar-website",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.0.0",
+    "@astrojs/tailwind": "^0.3.0",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "framer-motion": "^10.16.4"
+  }
+}
